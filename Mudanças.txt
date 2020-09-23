@@ -1,0 +1,1 @@
+Infelizmente o site blockchain.info parou de fornecer o histórico de preços do bitcoin no formato csv. Tive que baixar do site https://www.investing.com/crypto/bitcoin/historical-data. Porém o formato é diferente, existem mais colunas
